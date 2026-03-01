@@ -7,7 +7,6 @@ const FOLDERS = [
   { folder: 'services', prefix: 'services' },
   { folder: 'roof-types', prefix: 'roof-types' },
   { folder: 'locations', prefix: 'locations' },
-  { folder: 'blog', prefix: 'blog' },
 ];
 
 const SKIP = ['404.html'];
