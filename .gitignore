@@ -1,0 +1,16 @@
+# Generated files
+pages-data.json
+
+# WordPress utility scripts (contain credentials)
+import-to-wordpress.js
+
+# Local Claude settings (machine-specific)
+.claude/settings.local.json
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db

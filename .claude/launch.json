@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "roofing-palm-site",
+      "runtimeExecutable": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "runtimeArgs": ["-c", "export PATH=/c/Users/rbach/Downloads/nodejs/node-v22.14.0-win-x64:$PATH && npx serve -l 3000 --cors ."],
+      "port": 3000
+    },
+    {
+      "name": "cors-api",
+      "runtimeExecutable": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "runtimeArgs": ["-c", "export PATH=/c/Users/rbach/Downloads/nodejs/node-v22.14.0-win-x64:$PATH && node cors-server.js"],
+      "port": 3001
+    }
+  ]
+}
