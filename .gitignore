@@ -7,6 +7,9 @@ import-to-wordpress.js
 # Local Claude settings (machine-specific)
 .claude/settings.local.json
 
+# MCP config (contains API tokens)
+.mcp.json
+
 # Node
 node_modules/
 npm-debug.log*
